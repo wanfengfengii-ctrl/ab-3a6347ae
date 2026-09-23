@@ -11,3 +11,8 @@ __pycache__/
 .nox/
 .pnpm-store/
 *.py[cod]
+
+# 构建产物
+backend/static/
+frontend/dist/
+.env.local

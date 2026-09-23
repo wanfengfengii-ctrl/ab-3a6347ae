@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/api.ts","./src/examples.ts","./src/hex.ts","./src/main.tsx","./src/types.ts","./src/vite-env.d.ts","./src/components/ConflictPanel.tsx","./src/components/CoverageTrack.tsx","./src/components/FragmentEditor.tsx","./src/components/HexView.tsx","./src/components/VerdictPanel.tsx"],"version":"5.9.3"}
