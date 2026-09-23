@@ -10,4 +10,7 @@ __pycache__/
 .tox/
 .nox/
 .pnpm-store/
+.npm-cache/
 *.py[cod]
+*.tsbuildinfo
+frontend/dist/
